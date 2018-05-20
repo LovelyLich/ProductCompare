@@ -7,5 +7,3 @@ WatchGuard product compare
 2. ParsePage //parse the compare page to get data
 3. CsvWriter // persistance of csv format
 4. Sort
-
-
