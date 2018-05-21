@@ -2,6 +2,7 @@
 from selenium import webdriver
 import json
 
+# 这是中文 UTF-8 文件
 products = []
 
 # read config

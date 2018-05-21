@@ -1,5 +1,5 @@
 # ProductCompare
-WatchGuard product compare
+WatchGuard 的产品对比项目
 
 # Module Design
 0. Configuration // read config from with T/M series names
